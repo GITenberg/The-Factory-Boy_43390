@@ -1,0 +1,38 @@
+_repo: The-Factory-Boy_43390
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43390-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Hattie, Aunt
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2013-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Clothing factories -- Juvenile fiction'
+- !lcsh 'Faith -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sunday schools -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Factory Boy
+url: http://www.gutenberg.org/ebooks/43390
